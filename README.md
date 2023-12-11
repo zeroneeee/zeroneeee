@@ -1,14 +1,14 @@
 Hi :beers: My name is Chirayu Aphainok
 ========================================================================================================================================
 
-Mobile Developer and IoT Developer
+...Developer
 ----------------------------------
 
 Thammasat University 2015-2019 Faculty of Science and Technology, Majoring in Electronics Physics. - Flutter (Dart) - Arduino (C++) - Raspberry Pi (Micro Python)
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chirayuaphainok@gmail.com](mailto:chirayuaphainok@gmail.com)
-* 🧠  I'm learning Flutter, Android studio, Swift
+* 🧠  I'm learning everything
 * ⚡  Feeding rabbits
 
 ### Skills
